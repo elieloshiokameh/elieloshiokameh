@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm Eliel  
 
-<!--
-**elieloshiokameh/elieloshiokameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Software Engineer · Cloud & AI Explorer · Builder of Things That Matter ✨  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Doing
+- 🤖 Using AI to boost developer productivity  
+- ☁️ Exploring cloud-native architectures  
+- 🧪 Experimenting with dev tooling + code quality  
+
+---
+
+## 🧰 Tech & Tools I Use
+**Languages**
+- Java · JavaScript · TypeScript · Python · Go  
+
+**Frameworks**
+- Vue · React · Node.js · Flask · FastAPI  
+
+**Cloud & Infra**
+- Kubernetes · Docker · Terraform · AWS · IBM Cloud  
+
+**Databases**
+- Sql Server · Postgres · MongoDB · Redis
+
+---
+
+## 💡 What I Care About
+- Developer experience  
+- Tools that empower beginners  
+- Beautiful & thoughtful code  
+
+---
+
+## 📬 Let’s Connect
+💼 LinkedIn: *linkedin.com/eliel-oshiokameh*
+
+---
+
+> *"Build boldly. Learn loudly. Share everything."* 🚀
